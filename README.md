@@ -8,7 +8,7 @@ Software Engineering Graduate Specializing in Backend Development
 * ✉️  You can contact me at [salvador.c.silva@gmail.com](mailto:salvador.c.silva@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects, especially on the backend and server parts
-* ⚡  I´m a travel and sports lover
+* ⚡  I´m a travel and sports lover :) 
 
 ### Skills
 
